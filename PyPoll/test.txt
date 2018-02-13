@@ -1,0 +1,11 @@
+Election Results 
+--------------------------------
+total votes : 803000
+----------------------------
+candidate name : Vestal: 48.0% (385440)
+candidate name : Torres: 44.0% (353320)
+candidate name : Seth: 5.0% (40150)
+candidate name : Cordin: 3.0% (24090)
+---------------------
+Winner :Vestal
+---------------------
